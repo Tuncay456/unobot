@@ -9,6 +9,7 @@ services:
       - db:/app/data
     tty: true
     stdin_open: true
+    restart: always
 
 volumes:
   db:
