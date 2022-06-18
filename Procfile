@@ -1,1 +1,1 @@
-Ke
+pypi: python3 bot.py 
