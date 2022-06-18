@@ -2,4 +2,4 @@ build:
   docker:
     pypi: Dockerfile
 run:
-  pypi: python3 /bot.py
+  pypi: python3 ./bot.py
